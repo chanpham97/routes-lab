@@ -85,7 +85,7 @@ function getRandomIndex(sectionNumber) {
 // Extra credit if you format it with a h1 title for Docs and list the API endpoints in a list
 
 
-// Bonus extra credit:Go back and add a navbar to /, /bestStudent, and /docs as the top of both the corresponding GET routes
+// Extra Credit: Go back and add a navbar to /, /bestStudent, and /docs as the top of both the corresponding GET routes
 
 
 // Step 2: Start your server on port 3000 [1 pt]

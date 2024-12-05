@@ -87,7 +87,6 @@ function getRandomIndex(sectionNumber) {
 
 // Extra Credit: Go back and add a navbar to /, /bestStudent, and /docs as the top of both the corresponding GET routes
 
-
-// Step 2: Start your server on port 3000 [1 pt]
+// Step 2: Start your server on port 3000 [2 pt]
 
 

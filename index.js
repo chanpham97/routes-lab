@@ -53,9 +53,9 @@ let classData = {
 
 function getRandomIndex(sectionNumber) {
   if (sectionNumber === 1) {
-    return Math.floor(Math.random() * data.section1.length);
+    return Math.floor(Math.random() * classData.section1.length);
   } else if (sectionNumber === 2) {
-    return Math.floor(Math.random() * data.section2.length);
+    return Math.floor(Math.random() * classData.section2.length);
   } else {
     throw new Error("Invalid section number. Please enter 1 or 2 for a random index.")
   }
